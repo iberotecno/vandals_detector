@@ -3,7 +3,11 @@ Vandal Acts Sensor by iberotecno
 
 Telegram water sensor for ESP32.
 
-This example sends a telegram message from te ESP32 board to a cell phone with Telegram App installed when a water leakage is detected by the sensor. Youn only need to copy the lib content to your arduino libraryes folder and run the program that you find at src folder.
+This program sends a telegram message from te ESP32 board to a cell phone with Telegram App installed when a movement or shock is detected by the sensor. Youn only need to flash the contents of the bin folder, that already haves all the libraries included.
+
+Also you can find extended documentation for this project at the doc folder.
+
+Blog post and extended info: www.tienda.iberotecno.com
 
 You will need to install Arduino IDE: https://iberotecno.com/blog-supratecno/47-tutoriales-paso-a-paso/107-como-instalar-y-configurar-el-ide-de-arduino-tutorial
 
